@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Undoing Seamlessness: Exploring Seams for Critical Visualization."
 collection: publications
 permalink: /publication/chi22
-excerpt: 'Undoing Seamlessness: Exploring Seams for Critical Visualization.'
+excerpt: 'While seamful design has been part of discourses and work within HCI contexts for some time, it has not yet been fully explored in data visualization design. At the same time, critics of visualization have been arguing that the representation of data as contextual, contingent, relational, partial, heterogeneous, and situated is currently lacking in visualization. Seamful visualization promises a fresh perspective on visualization design as we seek to fnd more expressive encodings and novel approaches to representing data that acknowledge their wider qualities and limitations. By consulting seams in other realms and exploring existing seams and seamfulness in visualization, this paper ofers a foundation for conceptualizing seamful visualization, points towards the value of seams and seamfulness in critical visualization, and proposes principles for engaging with seamful visualization in practice and research.'
 date: 2022-04-28
 venue: 'CHI Conference on Human Factors in Computing Systems Extended Abstracts'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3491101.3519703'
