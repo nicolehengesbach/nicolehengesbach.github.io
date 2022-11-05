@@ -1,7 +1,7 @@
 ---
 title: "Ways of Seeing Urban Data. Critical Visualization and the Limits of Air Quality Data."
 collection: publications
-permalink: 
+permalink: /publication/2019-10-20-cityvis
 excerpt: ''
 date: 2019-10-20
 venue: 'CityVis: 2nd Workshop on Urban Data Visualization.'
