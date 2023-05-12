@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-Towards the representation of limitations in/of data through seamful visualisation. Infrastructures of Publics Workshop, June 2022. Details [here](https://ditcom.au.dk/news/show/artikel/infrastructures-of-publics-workshops-1).
+Towards the representation of limitations in/of data through seamful visualisation. Infrastructures of Publics Workshop, June 2022. Details [here](https://ditcom.au.dk/old-news-and-events/show/artikel/infrastructures-of-publics-workshops-1).
+
+Undoing Seamlessness: Exploring Seams for Critical Visualization. CHI Extended Abstracts (LBW) 2022, April 2022. Pre-recorded presentation [here](https://www.youtube.com/watch?v=KSaAOzLbWkw).
 
 Maps, trees and missingness: Representing data limitations in critical visualisation. WPCCS 2021 - 19th Warwick Postgraduate Colloquium in Computer Science, December 2021. Details [here](https://warwick.ac.uk/fac/sci/dcs/research/wpccs/wpccs21/schedule/).
 
