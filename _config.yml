@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicole Hengesbach"
   avatar           : "pic.jpg"
-  bio              : "PhD student at the University of Warwick researching critical urban data visualisation"
-  location         : "UK"
+  bio              : "Researcher in critical data visualisation"
+  location         : "Europe"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6mcfPOsAAAAJ&hl=en&oi=sra"
-  email            : "N.Hengesbach[at]warwick.ac.uk"
+  email            : "nicole.hengesbach[at]posteo.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "N_Hengesbach"
+  twitter          :
   vine             :
   weibo            :
   xing             :
